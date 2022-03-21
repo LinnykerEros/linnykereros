@@ -1,5 +1,7 @@
 <h1> Hey, I'm Linnyker 👋</h1>
-<p>👨‍🎓 </p>
+<p>👨‍🎓 I am a student, doing higher education at IFCE-Aracati, pursuing a bachelor's degree in Computer Science.
+</p>
+<p>💻And I'm also studying web development, focused on front-end technologies.</p>
 <!--
 **LinnykerEros/linnykereros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
