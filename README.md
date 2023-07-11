@@ -2,7 +2,8 @@
 <p>👨‍🎓 I am a student, graduated in Bachelor's degree in Computer Science, at IFCE-Aracati.
 </p>
 <p>💻And I'm also studying web development.</p>
-<p> <strong>Link to my portfolio:</strong> https://linnykereros.github.io/LinnykerErosPortfolio/</p>
+<p> <strong>Link to my first portfolio:</strong> https://linnykereros.github.io/LinnykerErosPortfolio/</p>
+<p> <strong>Link to my second portfolio:</strong>[ https://linnykereros.github.io/LinnykerErosPortfolio/](https://linnykereros.github.io/portofliolinnykereros/#home)</p>
 <div>
   <a href="https://github.com/LinnykerEros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnykereros&layout=compact&langs_count=16&theme=dark"/>
