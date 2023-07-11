@@ -1,5 +1,5 @@
 <h1> Hey, I'm Linnyker 👋</h1>
-<p>👨‍🎓 I am a student, doing higher education at IFCE-Aracati, pursuing a bachelor's degree in Computer Science.
+<p>👨‍🎓 I am a student, graduated in Bachelor's degree in Computer Science, at IFCE-Aracati.
 </p>
 <p>💻And I'm also studying web development.</p>
 <p> <strong>Link to my portfolio:</strong> https://linnykereros.github.io/LinnykerErosPortfolio/</p>
